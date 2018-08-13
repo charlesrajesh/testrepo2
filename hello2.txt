@@ -1,6 +1,3 @@
 im charles
-<<<<<<< HEAD
 good day
-=======
 im enjoying my training
->>>>>>> 9da52d3610368611a2db6eaabe8350d85f961957
